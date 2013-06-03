@@ -35,7 +35,7 @@ public class MainActivity extends Activity {
 		return true;
 	}
 	public void calTip(View v){
-		String outputText = "tip is : unknow";
+		String outputText = "tip is : unknown";
 		String inputText = inputPriceView.getText().toString();
 		if (inputText.equals("") == false && inputText.equals(".") == false) {
 			Double inputPrice = Double.parseDouble(inputText);

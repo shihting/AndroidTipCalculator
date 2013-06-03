@@ -6,6 +6,6 @@
     <string name="tax10">10%</string>
     <string name="tax15">15%</string>
     <string name="tax20">20%</string>
-    <string name="unknow">tip is : unknow</string>
+    <string name="unknow">tip is : unknown</string>
 
 </resources>
